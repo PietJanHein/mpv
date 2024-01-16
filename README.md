@@ -1,4 +1,5 @@
 This repository contains a basic mpv-setup with some changed hotkeys, added settings and added scripts. Tip, if your distro uses pipewire and you have problems with your soundcard then use "mpv --ao=pulse" to start mpv, it was required for my Soundblaster USB-soundcard.
+Simply download the tar-archive and extract it in ~/.config/mpv. On Windows it works similarly but considering that I don't use Windows I would have to look up the directory where to extract it myself, it is somewhere in your users/<username>-directory. 
 
 Added scripts: 
 - go to the next or previous video in a directory, now with < and > 
