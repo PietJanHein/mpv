@@ -5,7 +5,11 @@ Added scripts:
 - go to another chapter in a video (YouTube)
 - go to another video in a playslit (by opening a playlist-link from YouTube) in mpv
 
+Read the scriptfiles to understand how it works and in some cases what the hotkeys are. Usually functionally can be added to mpv by simply adding a file to the scripts-directory in ~/.config/mpv/
 Pause with RMB because the LMB was required for the 2nd and 3rd script. 
+
+
+All the hotkeys are in the input file. The defaults are hashtagged by the developer, you can change it by simply removing the # and changing the button. Scripts can interfere with the hotkeys which you set. 
 
 Basic hotkeys: 
 - pause: space/RMB/k
@@ -15,5 +19,7 @@ Basic hotkeys:
 - quit and remember time and values of volume and subtitles and all that for later: q
 - quit and don't remember all that: shift+Q
 - change fontsize of subtitles: shift+f/g
-- cycle through audio tracks or subtitles, there are hotkeys for it but you can also just click on the bar in the bottom 
+- cycle through audio tracks or subtitles, there are hotkeys for it (you can cycle in both directions) but you can also just click on the bar in the bottom 
 - change speed: [ and ]
+
+All the settings for mpv are in the config-file. 
