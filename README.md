@@ -4,7 +4,7 @@ Simply download the tar-archive and extract it in ~/.config/mpv. On Windows it w
 Added scripts: 
 - go to the next or previous video in a directory, now with < and > 
 - go to another chapter in a video (YouTube)
-- go to another video in a playslit (by opening a playlist-link from YouTube) in mpv
+- go to another video in a playlist (by opening a playlist-link from YouTube) in mpv
 
 Read the scriptfiles to understand how it works and in some cases what the hotkeys are. Usually functionally can be added to mpv by simply adding a file to the scripts-directory in ~/.config/mpv/
 Pause with RMB because the LMB was required for the 2nd and 3rd script. 
